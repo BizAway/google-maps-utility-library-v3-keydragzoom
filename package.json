@@ -9,7 +9,7 @@
   "homepage": "https://github.com/nmccready/google-maps-utility-library-v3-keydragzoom",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nmccready/google-maps-utility-library-v3-keydragzoom.git"
+    "url": "git+https://github.com/nmccready/google-maps-utility-library-v3-keydragzoom.git"
   },
   "author": "Nianwei Liu [nianwei at gmail dot com] & Gary Little [gary at luxcentral dot com]",
   "contibutors": [
